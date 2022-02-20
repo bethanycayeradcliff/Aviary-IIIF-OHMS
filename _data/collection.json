@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Aviary IIIF OHMS Import" ] },
+    "summary": { "en": [ "Testing the import of a IIIF manifest with importable annotations created in Aviary" ] },
+    "items": [
+    ]
+}
